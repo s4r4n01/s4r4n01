@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4r4n01
 - 👀 I'm interested in Programming & Development.
-- 🌱 I’m currently learning on web & mobile applications.
-- 💞️ I'm looking to a Great Knowledge.
+- 🌱 I’m currently learning about web & mobile applications.
+- 💞️ I'm looking for a Great Knowledge.
 - 📫 </#\>
 
 <!---
